@@ -1,5 +1,7 @@
 # Daniel Xu
 
+**English** | [简体中文](README.zh-CN.md)
+
 **Enterprise product leader who turns complex AI and automation into useful, trustworthy products—and ships working software to prove it.**
 
 I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**. I work across AI productivity, enterprise workflow, intelligent automation, process orchestration, and decision management. Outside enterprise product work, I build local-first tools and bilingual products with clear requirements, documented decisions, automated tests, and explicit privacy boundaries.
