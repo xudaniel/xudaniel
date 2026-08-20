@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Xu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielxuvision/) [![New Billionaires Club](https://img.shields.io/badge/New_Billionaires_Club-nbclub.ca-111827)](https://nbclub.ca)
+[![IBM](https://img.shields.io/badge/IBM-Senior_Product_Manager-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Xu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielxuvision/) [![New Billionaires Club](https://img.shields.io/badge/New_Billionaires_Club-nbclub.ca-111827)](https://nbclub.ca)
 
 # Hi, I’m Daniel Xu 👋
 
