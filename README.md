@@ -15,7 +15,7 @@ My career also includes product positions with **[Tencent](https://www.tencent.c
 | **[Usage Pulse](https://github.com/xudaniel/daniel-openai-usage-monitor)** | Privacy-first Codex usage monitoring, product requirements, releases, security boundaries, and local data ownership. |
 | **[Photo Ranker](https://github.com/xudaniel/photo-ranker-elo-style)** | Local-first visual decision support using adaptive comparisons, Elo ranking, undo controls, and automated tests. |
 | **[Scroll Screenshot Stitcher](https://github.com/xudaniel/scroll-screenshot-stitcher)** | High-confidence Python image reconstruction with fail-closed validation, CI, synthetic regression data, and provenance reporting. |
-| **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** | A bilingual TypeScript PWA with transparent rule-based analysis, extensive tests, CI, and automated deployment. |
+| **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** · **[Live Demo](https://xudaniel.github.io/mingli-fengshui/)** | A bilingual TypeScript PWA with transparent rule-based analysis, extensive tests, CI, and automated deployment. |
 | **[Guess the Crop](https://github.com/xudaniel/guess-crop-game)** | A private, local-only browser game built with the Python standard library and a lightweight web interface. |
 
 ## Enterprise product work
