@@ -10,6 +10,7 @@ I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**.
 
 | Product | What it demonstrates |
 | --- | --- |
+| **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse preview](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | Production-grade macOS remote-operations tooling with verified launchd-managed sleep assertions, durable offline heartbeats, and a privacy-conscious dashboard for timestamped battery, uptime, internet-quality, and outage history. |
 | **[Usage Pulse](https://github.com/xudaniel/daniel-openai-usage-monitor)** · **[Live app](https://usage-pulse-daniel.danyelxu.chatgpt.site)** | A local-first dashboard for understanding Codex credits, weekly usage, reset timing, and runway without collecting credentials or cloud-storing personal history. |
 | **[Scroll Screenshot Stitcher](https://github.com/xudaniel/scroll-screenshot-stitcher)** | Pixel-preserving screenshot reconstruction with fail-closed validation, ambiguity checks, synthetic regression data, and reproducible provenance reports. |
 | **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | Deterministic workflow automation that turns validated YAML or JSON into branded PNG, PDF, and social-media assets with provenance manifests. |
