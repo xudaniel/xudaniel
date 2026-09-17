@@ -6,17 +6,16 @@ I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**.
 
 [![IBM](https://img.shields.io/badge/IBM-Senior_Product_Manager-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Xu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielxuvision/) [![New Billionaires Club](https://img.shields.io/badge/New_Billionaires_Club-nbclub.ca-111827)](https://nbclub.ca)
 
-## Selected products
+## Featured projects
 
-| Product | What it demonstrates |
+| Project | What it demonstrates |
 | --- | --- |
-| **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse preview](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | Production-grade macOS remote-operations tooling with verified launchd-managed sleep assertions, durable offline heartbeats, and a privacy-conscious dashboard for timestamped battery, uptime, internet-quality, and outage history. |
-| **[Usage Pulse](https://github.com/xudaniel/daniel-openai-usage-monitor)** · **[Live app](https://usage-pulse-daniel.danyelxu.chatgpt.site)** | A local-first dashboard for understanding Codex credits, weekly usage, reset timing, and runway without collecting credentials or cloud-storing personal history. |
-| **[Scroll Screenshot Stitcher](https://github.com/xudaniel/scroll-screenshot-stitcher)** | Pixel-preserving screenshot reconstruction with fail-closed validation, ambiguity checks, synthetic regression data, and reproducible provenance reports. |
-| **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | Deterministic workflow automation that turns validated YAML or JSON into branded PNG, PDF, and social-media assets with provenance manifests. |
-| **[Photo Ranker](https://github.com/xudaniel/photo-ranker-elo-style)** · **[Live app](https://xudaniel.github.io/photo-ranker-elo-style/)** | Local-first visual decision support using adaptive pairwise comparisons, Elo scoring, confidence tracking, and responsive results. |
-| **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** · **[Live app](https://xudaniel.github.io/mingli-fengshui/)** | A bilingual TypeScript PWA with transparent rule-based analysis, offline support, automated deployment, and extensive tests. |
-| **[Guess the Crop](https://github.com/xudaniel/guess-crop-game)** | A local-only photo crop quiz built with Python’s standard library and a lightweight browser interface. |
+| **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · Fork of **[gorules/zen](https://github.com/gorules/zen)** | A Rust business rules engine with an expression language, decision graphs, and bindings for multiple programming languages. |
+| **[CodexBar](https://github.com/xudaniel/CodexBar)** · Fork of **[steipete/CodexBar](https://github.com/steipete/CodexBar)** | A native macOS menu bar app for monitoring AI provider usage, limits, and reset timing across multiple integrations. |
+| **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse preview](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | macOS remote-operations tooling with launchd-managed sleep prevention, signed heartbeats, durable offline delivery, and a dashboard for status, history, and alerts. |
+| **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | A browser editor and Python rendering workflow that turn validated property data into branded PNG, PDF, and social-media assets, with saved projects and recovery. |
+| **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** · **[Live app](https://xudaniel.github.io/mingli-fengshui/)** | A bilingual TypeScript PWA for traditional Chinese calendrical and birth-chart calculations, with transparent rules, historical time adjustments, offline support, and automated tests. |
+| **[Scroll Screenshot Stitcher](https://github.com/xudaniel/scroll-screenshot-stitcher)** | Pixel-preserving screenshot reconstruction with overlap detection, ambiguity checks, seam selection, synthetic regression fixtures, and reproducible provenance reports. |
 
 ## What I focus on
 
