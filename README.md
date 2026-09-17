@@ -8,7 +8,7 @@
 
 I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**. I work across AI productivity, enterprise workflow, intelligent automation, process orchestration, and decision management. Outside enterprise product work, I build local-first tools and bilingual products with clear requirements, documented decisions, automated tests, and explicit privacy boundaries.
 
-[![IBM](https://img.shields.io/badge/IBM-Senior_Product_Manager-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Xu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielxuvision/) [![New Billionaires Club](https://img.shields.io/badge/New_Billionaires_Club-nbclub.ca-111827)](https://nbclub.ca)
+[![IBM](https://img.shields.io/badge/IBM-Senior_Product_Manager-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Xu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielxuvision/) [![New Vision Investment](https://img.shields.io/badge/New_Vision_Investment-sz--newvision.com-111827)](https://sz-newvision.com)
 
 ## Featured projects
 
@@ -58,7 +58,7 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 我常驻多伦多，现任 **[IBM](https://www.ibm.com/)** 高级产品经理，工作涵盖 AI 生产力、企业工作流、智能自动化、流程编排和决策管理。在企业产品工作之外，我也开发优先在本地运行的工具和双语产品，注重清晰的需求、可追溯的决策、自动化测试，以及明确的隐私边界。
 
-[IBM](https://www.ibm.com/) · [LinkedIn](https://www.linkedin.com/in/danielxuvision/) · [New Billionaires Club](https://nbclub.ca)
+[IBM](https://www.ibm.com/) · [LinkedIn](https://www.linkedin.com/in/danielxuvision/) · [New Vision Investment · sz-newvision.com](https://sz-newvision.com)
 
 ## 精选项目
 
