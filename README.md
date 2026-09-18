@@ -10,6 +10,14 @@ I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**.
 
 [![IBM](https://img.shields.io/badge/IBM-Senior_Product_Manager-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Xu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielxuvision/) [![New Vision Investment](https://img.shields.io/badge/New_Vision_Investment-sz--newvision.com-111827)](https://sz-newvision.com)
 
+## 🎮 Choose your adventure
+
+Follow your curiosity—pick a place to start.
+
+- **[🤖 Explore AI →](https://github.com/xudaniel/ai-news-agent)** — Trade the endless feed for five stories worth your attention.
+- **[🏡 Make something →](https://xudaniel.github.io/realtor-poster-generator/)** — Give a sample listing a makeover and turn it into a poster.
+- **[🧭 Explore Chinese traditions →](https://xudaniel.github.io/mingli-fengshui/)** — Get curious about traditional calendars and see the rules behind a birth chart.
+
 ## Featured projects
 
 | Project | What it demonstrates |
@@ -89,6 +97,14 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 我常驻多伦多，现任 **[IBM](https://www.ibm.com/)** 高级产品经理，工作涵盖 AI 生产力、企业工作流、智能自动化、流程编排和决策管理。在企业产品工作之外，我也开发优先在本地运行的工具和双语产品，注重清晰的需求、可追溯的决策、自动化测试，以及明确的隐私边界。
 
 [IBM](https://www.ibm.com/) · [LinkedIn](https://www.linkedin.com/in/danielxuvision/) · [New Vision Investment · sz-newvision.com](https://sz-newvision.com)
+
+## 🎮 选一条路线，开始探索
+
+跟着好奇心走，挑一个你感兴趣的入口。
+
+- **[🤖 探索 AI →](https://github.com/xudaniel/ai-news-agent)** — 暂停刷屏，看看五条值得关注的科技新闻。
+- **[🏡 动手做点东西 →](https://xudaniel.github.io/realtor-poster-generator/)** — 给示例房源换个造型，把资料变成一张海报。
+- **[🧭 探索中国传统文化 →](https://xudaniel.github.io/mingli-fengshui/)** — 从传统历法出发，看看命盘背后的计算规则。
 
 ## 精选项目
 
