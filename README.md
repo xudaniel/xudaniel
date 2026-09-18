@@ -14,6 +14,8 @@ I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**.
 
 Follow your curiosity—pick a place to start.
 
+- **[🛸 Staff Earth’s first alien immigration desk →](https://xudaniel.github.io/zen-Gorules/)** — Inspect a poet’s pocket black hole. Stamp a passport. See the rules behind every verdict.
+
 - **[🤖 Explore AI →](https://github.com/xudaniel/ai-news-agent)** — Trade the endless feed for five stories worth your attention.
 - **[🏡 Make something →](https://xudaniel.github.io/realtor-poster-generator/)** — Give a sample listing a makeover and turn it into a poster.
 - **[🧭 Explore Chinese traditions →](https://xudaniel.github.io/mingli-fengshui/)** — Get curious about traditional calendars and see the rules behind a birth chart.
@@ -22,7 +24,7 @@ Follow your curiosity—pick a place to start.
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · Fork of **[gorules/zen](https://github.com/gorules/zen)** | A Rust business rules engine with an expression language, decision graphs, and bindings for multiple programming languages. |
+| **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · **[Play Alien Immigration →](https://xudaniel.github.io/zen-Gorules/)** · Fork of **[gorules/zen](https://github.com/gorules/zen)** | A Rust business rules engine with an expression language, decision graphs, and bindings for multiple programming languages. |
 | **[CodexBar](https://github.com/xudaniel/CodexBar)** · Fork of **[steipete/CodexBar](https://github.com/steipete/CodexBar)** | A native macOS menu bar app for monitoring AI provider usage, limits, and reset timing across multiple integrations. |
 | **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse preview](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | macOS remote-operations tooling with launchd-managed sleep prevention, signed heartbeats, durable offline delivery, and a dashboard for status, history, and alerts. |
 | **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | A browser editor and Python rendering workflow that turn validated property data into branded PNG, PDF, and social-media assets, with saved projects and recovery. |
@@ -102,6 +104,8 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 跟着好奇心走，挑一个你感兴趣的入口。
 
+- **[🛸 去外星人入境办值个班 →](https://xudaniel.github.io/zen-Gorules/?lang=zh)** — 检查诗人的口袋黑洞，给护照盖章，看看每个决定背后的规则。
+
 - **[🤖 探索 AI →](https://github.com/xudaniel/ai-news-agent)** — 暂停刷屏，看看五条值得关注的科技新闻。
 - **[🏡 动手做点东西 →](https://xudaniel.github.io/realtor-poster-generator/)** — 给示例房源换个造型，把资料变成一张海报。
 - **[🧭 探索中国传统文化 →](https://xudaniel.github.io/mingli-fengshui/)** — 从传统历法出发，看看命盘背后的计算规则。
@@ -110,7 +114,7 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 | 项目 | 项目特色 |
 | --- | --- |
-| **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · 派生自 **[gorules/zen](https://github.com/gorules/zen)** | 基于 Rust 的业务规则引擎，提供表达式语言、决策图和多种编程语言绑定。 |
+| **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · **[体验外星人入境办 →](https://xudaniel.github.io/zen-Gorules/?lang=zh)** · 派生自 **[gorules/zen](https://github.com/gorules/zen)** | 基于 Rust 的业务规则引擎，提供表达式语言、决策图和多种编程语言绑定。 |
 | **[CodexBar](https://github.com/xudaniel/CodexBar)** · 派生自 **[steipete/CodexBar](https://github.com/steipete/CodexBar)** | 原生 macOS 菜单栏应用，集成多家 AI 服务，便于查看用量、额度和重置时间。 |
 | **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse 预览](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | 面向 macOS 的远程运维工具，支持由 launchd 管理的防休眠服务、带签名的心跳、离线持久化投递，以及状态、历史记录和告警面板。 |
 | **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | 结合浏览器编辑器与 Python 渲染流程，将经过校验的房源数据生成带品牌样式的 PNG、PDF 和社交媒体素材，支持项目保存与恢复。 |
