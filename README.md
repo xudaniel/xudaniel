@@ -21,6 +21,36 @@ I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**.
 | **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** · **[Live app](https://xudaniel.github.io/mingli-fengshui/)** | A bilingual TypeScript PWA for traditional Chinese calendrical and birth-chart calculations, with transparent rules, historical time adjustments, offline support, and automated tests. |
 | **[AI News Agent](https://github.com/xudaniel/ai-news-agent)** · Customized fork of **[nickzren/ai-news-agent](https://github.com/nickzren/ai-news-agent)** | A Chinese AI and technology digest workflow with source links, deduplication, snapshot-bound editorial decisions, publication checks, and web and print layouts. |
 
+## 🎬 See the projects in action
+
+### Mac Pulse · A little mission control for your Mac
+
+Check heartbeat, battery, connectivity, and history at a glance. This preview uses synthetic demo data.
+
+<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="760" alt="Mac Pulse dashboard with synthetic online status, battery, internet speed, and battery history"></a>
+
+**[Try the demo →](https://xudaniel.github.io/remote-mac-keepawake/)** · [View code](https://github.com/xudaniel/remote-mac-keepawake)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏡 From listing to poster</h3>
+<p>Turn structured property details into a ready-to-share design.</p>
+<a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="360" alt="Sample property poster with fictional listing details, illustrations, floor plan, and branding"></a>
+<p><sub>Fictional listing and contact details.</sub></p>
+<p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>Try the editor →</strong></a> · <a href="https://github.com/xudaniel/realtor-poster-generator">View code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>📰 Less noise. Five stories.</h3>
+<p>A Chinese AI and technology digest: what happened, why it matters, and what to watch.</p>
+<a href="assets/ai-news-preview.png"><img src="assets/ai-news-preview.png" width="360" alt="Chinese AI News Agent sample digest with New Vision Investment branding and a five-story overview"></a>
+<p><sub>Sample edition, September 15, 2026.</sub></p>
+<p><a href="assets/ai-news-preview.png"><strong>View preview →</strong></a> · <a href="https://github.com/xudaniel/ai-news-agent">View code</a></p>
+<p><sub>Customized from <a href="https://github.com/nickzren/ai-news-agent">nickzren/ai-news-agent</a>.</sub></p>
+</td>
+</tr>
+</table>
+
 ## What I focus on
 
 - Trustworthy AI and AI-assisted product development
@@ -70,6 +100,36 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 | **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | 结合浏览器编辑器与 Python 渲染流程，将经过校验的房源数据生成带品牌样式的 PNG、PDF 和社交媒体素材，支持项目保存与恢复。 |
 | **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** · **[在线体验](https://xudaniel.github.io/mingli-fengshui/)** | 基于 TypeScript 的双语渐进式 Web 应用，用于中国传统历法与命盘计算，具备透明的规则、历史时间校正、离线支持和自动化测试。 |
 | **[AI News Agent](https://github.com/xudaniel/ai-news-agent)** · 基于 **[nickzren/ai-news-agent](https://github.com/nickzren/ai-news-agent)** 定制的派生项目 | 中文 AI 与科技日报工作流，保留来源链接，支持去重、与候选快照绑定的编辑决策、发布检查，以及网页和打印版式。 |
+
+## 🎬 看看项目实际长什么样
+
+### Mac Pulse · 你的 Mac 迷你指挥中心
+
+一眼查看心跳、电量、网络连接和历史记录。预览使用模拟演示数据。
+
+<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="760" alt="Mac Pulse 模拟仪表盘：在线状态、电量、网速和电量历史"></a>
+
+**[体验演示 →](https://xudaniel.github.io/remote-mac-keepawake/)** · [查看代码](https://github.com/xudaniel/remote-mac-keepawake)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏡 房源资料，变身海报</h3>
+<p>将结构化房源信息，变成可以分享的设计作品。</p>
+<a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="360" alt="虚构房源海报示例，包含房源资料、插画、户型图和品牌设计"></a>
+<p><sub>房源与联系方式均为虚构示例。</sub></p>
+<p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>体验编辑器 →</strong></a> · <a href="https://github.com/xudaniel/realtor-poster-generator">查看代码</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>📰 少点噪声，精选五条</h3>
+<p>中文 AI 与科技日报：发生了什么、为什么重要、接下来观察什么。</p>
+<a href="assets/ai-news-preview.png"><img src="assets/ai-news-preview.png" width="360" alt="带欣远景投资标识的中文 AI 科技日报示例，展示五条新闻速览"></a>
+<p><sub>2026 年 9 月 15 日示例版。</sub></p>
+<p><a href="assets/ai-news-preview.png"><strong>查看预览 →</strong></a> · <a href="https://github.com/xudaniel/ai-news-agent">查看代码</a></p>
+<p><sub>基于 <a href="https://github.com/nickzren/ai-news-agent">nickzren/ai-news-agent</a> 定制。</sub></p>
+</td>
+</tr>
+</table>
 
 ## 关注领域
 
