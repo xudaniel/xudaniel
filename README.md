@@ -4,11 +4,39 @@
 
 <a id="english"></a>
 
-**Enterprise product leader who turns complex AI and automation into useful, trustworthy products—and ships working software to prove it.**
+**I turn complex AI and automation into useful, trustworthy products—and build working software to prove it.**
 
-I’m a Toronto-based Senior Product Manager at **[IBM](https://www.ibm.com/)**. I work across AI productivity, enterprise workflow, intelligent automation, process orchestration, and decision management. Outside enterprise product work, I build local-first tools and bilingual products with clear requirements, documented decisions, automated tests, and explicit privacy boundaries.
+Senior Product Manager at **[IBM](https://www.ibm.com/)** · Toronto. I build local-first tools and bilingual products with clear rules and privacy boundaries.
 
 [![IBM](https://img.shields.io/badge/IBM-Senior_Product_Manager-052FAD?logo=ibm&logoColor=white)](https://www.ibm.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Xu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielxuvision/) [![New Vision Investment](https://img.shields.io/badge/New_Vision_Investment-sz--newvision.com-111827)](https://sz-newvision.com)
+
+## 🎬 Try three things I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🖥️ Mac Pulse</h3>
+<p>Check your Mac’s heartbeat, battery, and connectivity at a glance.</p>
+<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="220" alt="Mac Pulse dashboard preview"></a>
+<p><sub>Synthetic demo data.</sub></p>
+<p><a href="https://xudaniel.github.io/remote-mac-keepawake/"><strong>Try the demo →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🏡 Realtor Poster</h3>
+<p>Turn property details into a ready-to-share poster.</p>
+<a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="140" alt="Fictional property poster preview"></a>
+<p><sub>Fictional listing and contact details.</sub></p>
+<p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>Try the editor →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🧭 Mingli Fengshui</h3>
+<p>Explore traditional calendars and birth charts with transparent rules.</p>
+<a href="https://xudaniel.github.io/mingli-fengshui/"><img src="https://github.com/xudaniel/mingli-fengshui/raw/main/public/og-image.png" width="220" alt="Mingli Fengshui application preview"></a>
+<p><sub>Bilingual · Local computation.</sub></p>
+<p><a href="https://xudaniel.github.io/mingli-fengshui/"><strong>Try the app →</strong></a></p>
+</td>
+</tr>
+</table>
 
 ## 🎮 Choose your adventure
 
@@ -30,28 +58,6 @@ Follow your curiosity—pick a place to start.
 | **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | A browser editor and Python rendering workflow that turn validated property data into branded PNG, PDF, and social-media assets, with saved projects and recovery. |
 | **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** · **[Live app](https://xudaniel.github.io/mingli-fengshui/)** | A bilingual TypeScript PWA for traditional Chinese calendrical and birth-chart calculations, with transparent rules, historical time adjustments, offline support, and automated tests. |
 | **[AI News Agent](https://github.com/xudaniel/ai-news-agent)** · Customized fork of **[nickzren/ai-news-agent](https://github.com/nickzren/ai-news-agent)** | A Chinese AI and technology digest workflow with source links, deduplication, snapshot-bound editorial decisions, publication checks, and web and print layouts. |
-
-## 🎬 See the projects in action
-
-### Mac Pulse · A little mission control for your Mac
-
-Check heartbeat, battery, connectivity, and history at a glance. This preview uses synthetic demo data.
-
-<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="760" alt="Mac Pulse dashboard with synthetic online status, battery, internet speed, and battery history"></a>
-
-**[Try the demo →](https://xudaniel.github.io/remote-mac-keepawake/)** · [View code](https://github.com/xudaniel/remote-mac-keepawake)
-
-<table>
-<tr>
-<td width="100%" valign="top">
-<h3>🏡 From listing to poster</h3>
-<p>Turn structured property details into a ready-to-share design.</p>
-<a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="360" alt="Sample property poster with fictional listing details, illustrations, floor plan, and branding"></a>
-<p><sub>Fictional listing and contact details.</sub></p>
-<p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>Try the editor →</strong></a> · <a href="https://github.com/xudaniel/realtor-poster-generator">View code</a></p>
-</td>
-</tr>
-</table>
 
 ## What I focus on
 
@@ -86,11 +92,39 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 # Daniel Xu · 中文简介
 
-**我专注于企业产品，将复杂的 AI 与自动化能力转化为实用、可信赖的产品，并通过实际交付的软件验证想法。**
+**我将复杂的 AI 与自动化能力转化为实用、可信赖的产品，并通过交付软件验证想法。**
 
-我常驻多伦多，现任 **[IBM](https://www.ibm.com/)** 高级产品经理，工作涵盖 AI 生产力、企业工作流、智能自动化、流程编排和决策管理。在企业产品工作之外，我也开发优先在本地运行的工具和双语产品，注重清晰的需求、可追溯的决策、自动化测试，以及明确的隐私边界。
+**[IBM](https://www.ibm.com/)** 高级产品经理 · 多伦多。开发优先在本地运行的工具与双语产品，注重透明规则和隐私边界。
 
 [IBM](https://www.ibm.com/) · [LinkedIn](https://www.linkedin.com/in/danielxuvision/) · [New Vision Investment · sz-newvision.com](https://sz-newvision.com)
+
+## 🎬 先体验三个作品
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🖥️ Mac Pulse</h3>
+<p>一眼查看 Mac 的心跳、电量与网络状态。</p>
+<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="220" alt="Mac Pulse dashboard preview"></a>
+<p><sub>使用模拟演示数据。</sub></p>
+<p><a href="https://xudaniel.github.io/remote-mac-keepawake/"><strong>体验演示 →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🏡 房源海报</h3>
+<p>将房源资料变成可以分享的海报。</p>
+<a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="140" alt="Fictional property poster preview"></a>
+<p><sub>房源与联系方式均为虚构示例。</sub></p>
+<p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>体验编辑器 →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🧭 命理风水</h3>
+<p>探索传统历法与命盘，查看透明的计算规则。</p>
+<a href="https://xudaniel.github.io/mingli-fengshui/"><img src="https://github.com/xudaniel/mingli-fengshui/raw/main/public/og-image.png" width="220" alt="Mingli Fengshui application preview"></a>
+<p><sub>中英双语 · 本地计算。</sub></p>
+<p><a href="https://xudaniel.github.io/mingli-fengshui/"><strong>在线体验 →</strong></a></p>
+</td>
+</tr>
+</table>
 
 ## 🎮 选一条路线，开始探索
 
@@ -112,28 +146,6 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 | **[Realtor Poster Generator](https://github.com/xudaniel/realtor-poster-generator)** | 结合浏览器编辑器与 Python 渲染流程，将经过校验的房源数据生成带品牌样式的 PNG、PDF 和社交媒体素材，支持项目保存与恢复。 |
 | **[Mingli Fengshui](https://github.com/xudaniel/mingli-fengshui)** · **[在线体验](https://xudaniel.github.io/mingli-fengshui/)** | 基于 TypeScript 的双语渐进式 Web 应用，用于中国传统历法与命盘计算，具备透明的规则、历史时间校正、离线支持和自动化测试。 |
 | **[AI News Agent](https://github.com/xudaniel/ai-news-agent)** · 基于 **[nickzren/ai-news-agent](https://github.com/nickzren/ai-news-agent)** 定制的派生项目 | 中文 AI 与科技日报工作流，保留来源链接，支持去重、与候选快照绑定的编辑决策、发布检查，以及网页和打印版式。 |
-
-## 🎬 看看项目实际长什么样
-
-### Mac Pulse · 你的 Mac 迷你指挥中心
-
-一眼查看心跳、电量、网络连接和历史记录。预览使用模拟演示数据。
-
-<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="760" alt="Mac Pulse 模拟仪表盘：在线状态、电量、网速和电量历史"></a>
-
-**[体验演示 →](https://xudaniel.github.io/remote-mac-keepawake/)** · [查看代码](https://github.com/xudaniel/remote-mac-keepawake)
-
-<table>
-<tr>
-<td width="100%" valign="top">
-<h3>🏡 房源资料，变身海报</h3>
-<p>将结构化房源信息，变成可以分享的设计作品。</p>
-<a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="360" alt="虚构房源海报示例，包含房源资料、插画、户型图和品牌设计"></a>
-<p><sub>房源与联系方式均为虚构示例。</sub></p>
-<p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>体验编辑器 →</strong></a> · <a href="https://github.com/xudaniel/realtor-poster-generator">查看代码</a></p>
-</td>
-</tr>
-</table>
 
 ## 关注领域
 
