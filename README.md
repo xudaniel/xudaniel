@@ -43,20 +43,12 @@ Check heartbeat, battery, connectivity, and history at a glance. This preview us
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 <h3>🏡 From listing to poster</h3>
 <p>Turn structured property details into a ready-to-share design.</p>
 <a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="360" alt="Sample property poster with fictional listing details, illustrations, floor plan, and branding"></a>
 <p><sub>Fictional listing and contact details.</sub></p>
 <p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>Try the editor →</strong></a> · <a href="https://github.com/xudaniel/realtor-poster-generator">View code</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>📰 Less noise. Five stories.</h3>
-<p>A Chinese AI and technology digest: what happened, why it matters, and what to watch.</p>
-<a href="assets/ai-news-preview.png"><img src="assets/ai-news-preview.png" width="360" alt="Chinese AI News Agent sample digest with New Vision Investment branding and a five-story overview"></a>
-<p><sub>Sample edition, September 15, 2026.</sub></p>
-<p><a href="assets/ai-news-preview.png"><strong>View preview →</strong></a> · <a href="https://github.com/xudaniel/ai-news-agent">View code</a></p>
-<p><sub>Customized from <a href="https://github.com/nickzren/ai-news-agent">nickzren/ai-news-agent</a>.</sub></p>
 </td>
 </tr>
 </table>
@@ -133,20 +125,12 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 <h3>🏡 房源资料，变身海报</h3>
 <p>将结构化房源信息，变成可以分享的设计作品。</p>
 <a href="https://xudaniel.github.io/realtor-poster-generator/"><img src="https://raw.githubusercontent.com/xudaniel/realtor-poster-generator/main/outputs/sample-poster.png" width="360" alt="虚构房源海报示例，包含房源资料、插画、户型图和品牌设计"></a>
 <p><sub>房源与联系方式均为虚构示例。</sub></p>
 <p><a href="https://xudaniel.github.io/realtor-poster-generator/"><strong>体验编辑器 →</strong></a> · <a href="https://github.com/xudaniel/realtor-poster-generator">查看代码</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>📰 少点噪声，精选五条</h3>
-<p>中文 AI 与科技日报：发生了什么、为什么重要、接下来观察什么。</p>
-<a href="assets/ai-news-preview.png"><img src="assets/ai-news-preview.png" width="360" alt="带欣远景投资标识的中文 AI 科技日报示例，展示五条新闻速览"></a>
-<p><sub>2026 年 9 月 15 日示例版。</sub></p>
-<p><a href="assets/ai-news-preview.png"><strong>查看预览 →</strong></a> · <a href="https://github.com/xudaniel/ai-news-agent">查看代码</a></p>
-<p><sub>基于 <a href="https://github.com/nickzren/ai-news-agent">nickzren/ai-news-agent</a> 定制。</sub></p>
 </td>
 </tr>
 </table>
