@@ -44,6 +44,7 @@ Follow your curiosity—pick a place to start.
 
 - **[🛸 Staff Earth’s first alien immigration desk →](https://xudaniel.github.io/zen-Gorules/)** — Inspect a poet’s pocket black hole. Stamp a passport. See the rules behind every verdict.
 
+- **[🎓 Watch a business process come alive →](https://xudaniel.github.io/webmethods-bpms-academy/)** — Give an AI agent a rulebook, run a loan process, and collect eight badges along the way.
 - **[🤖 Explore AI →](https://github.com/xudaniel/ai-news-agent)** — Trade the endless feed for five stories worth your attention.
 - **[🏡 Make something →](https://xudaniel.github.io/realtor-poster-generator/)** — Give a sample listing a makeover and turn it into a poster.
 - **[🧭 Explore Chinese traditions →](https://xudaniel.github.io/mingli-fengshui/)** — Get curious about traditional calendars and see the rules behind a birth chart.
@@ -52,6 +53,7 @@ Follow your curiosity—pick a place to start.
 
 | Project | What it demonstrates |
 | --- | --- |
+| **[IBM webMethods BPMS Academy](https://github.com/xudaniel/webmethods-bpms-academy)** · **[Open the course →](https://xudaniel.github.io/webmethods-bpms-academy/)** · v1.0 | A free, mobile-first course and cited knowledge base on IBM webMethods BPMS for beginners, customers and everyday users. It includes how-to guides by role, a 30-minute hands-on lab, troubleshooting, nine diagrams, a process simulator and quizzes, and it can be installed as an app that works offline. Independent; not affiliated with IBM. |
 | **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · **[Play Alien Immigration →](https://xudaniel.github.io/zen-Gorules/)** · Fork of **[gorules/zen](https://github.com/gorules/zen)** | A Rust business rules engine with an expression language, decision graphs, and bindings for multiple programming languages. |
 | **[CodexBar](https://github.com/xudaniel/CodexBar)** · Fork of **[steipete/CodexBar](https://github.com/steipete/CodexBar)** | A native macOS menu bar app for monitoring AI provider usage, limits, and reset timing across multiple integrations. |
 | **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse preview](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | macOS remote-operations tooling with launchd-managed sleep prevention, signed heartbeats, durable offline delivery, and a dashboard for status, history, and alerts. |
@@ -132,6 +134,7 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 - **[🛸 去外星人入境办值个班 →](https://xudaniel.github.io/zen-Gorules/?lang=zh)** — 检查诗人的口袋黑洞，给护照盖章，看看每个决定背后的规则。
 
+- **[🎓 看看业务流程怎么跑起来 →](https://xudaniel.github.io/webmethods-bpms-academy/)** — 用一本规则手册管住 AI agent，跑一遍贷款流程，顺便集齐 8 枚徽章。
 - **[🤖 探索 AI →](https://github.com/xudaniel/ai-news-agent)** — 暂停刷屏，看看五条值得关注的科技新闻。
 - **[🏡 动手做点东西 →](https://xudaniel.github.io/realtor-poster-generator/)** — 给示例房源换个造型，把资料变成一张海报。
 - **[🧭 探索中国传统文化 →](https://xudaniel.github.io/mingli-fengshui/)** — 从传统历法出发，看看命盘背后的计算规则。
@@ -140,6 +143,7 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 | 项目 | 项目特色 |
 | --- | --- |
+| **[IBM webMethods BPMS 学院](https://github.com/xudaniel/webmethods-bpms-academy)** · **[打开课程 →](https://xudaniel.github.io/webmethods-bpms-academy/)** · v1.0 | 一门免费的 IBM webMethods BPMS 课程，附带有出处的知识库，适配手机，面向初学者、客户和日常使用人员。内容包括按角色划分的操作教程、30 分钟动手实验、故障排查、9 张示意图、流程模拟器和测验，还可以存成 App 离线使用。这是个人独立项目，与 IBM 无隶属关系。 |
 | **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · **[体验外星人入境办 →](https://xudaniel.github.io/zen-Gorules/?lang=zh)** · 派生自 **[gorules/zen](https://github.com/gorules/zen)** | 基于 Rust 的业务规则引擎，提供表达式语言、决策图和多种编程语言绑定。 |
 | **[CodexBar](https://github.com/xudaniel/CodexBar)** · 派生自 **[steipete/CodexBar](https://github.com/steipete/CodexBar)** | 原生 macOS 菜单栏应用，集成多家 AI 服务，便于查看用量、额度和重置时间。 |
 | **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse 预览](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | 面向 macOS 的远程运维工具，支持由 launchd 管理的防休眠服务、带签名的心跳、离线持久化投递，以及状态、历史记录和告警面板。 |
