@@ -15,11 +15,11 @@ Senior Product Manager at **[IBM](https://www.ibm.com/)** · Toronto. I build lo
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3>🖥️ Mac Pulse</h3>
-<p>Check your Mac’s heartbeat, battery, and connectivity at a glance.</p>
-<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="220" alt="Mac Pulse dashboard preview"></a>
-<p><sub>Synthetic demo data.</sub></p>
-<p><a href="https://xudaniel.github.io/remote-mac-keepawake/"><strong>Try the demo →</strong></a></p>
+<h3>🎓 webMethods BPMS Academy</h3>
+<p>Learn business process automation by running a real process, step by step.</p>
+<a href="https://xudaniel.github.io/webmethods-bpms-academy/"><img src="https://raw.githubusercontent.com/xudaniel/webmethods-bpms-academy/main/assets/screenshots/lab-process.png" width="220" alt="Purchase-approval process from the hands-on lab"></a>
+<p><sub>Free · Phone-first · Works offline.</sub></p>
+<p><a href="https://xudaniel.github.io/webmethods-bpms-academy/"><strong>Open the course →</strong></a></p>
 </td>
 <td width="33%" valign="top">
 <h3>🏡 Realtor Poster</h3>
@@ -105,11 +105,11 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3>🖥️ Mac Pulse</h3>
-<p>一眼查看 Mac 的心跳、电量与网络状态。</p>
-<a href="https://xudaniel.github.io/remote-mac-keepawake/"><img src="https://raw.githubusercontent.com/xudaniel/remote-mac-keepawake/main/docs/assets/mac-pulse-synthetic.svg" width="220" alt="Mac Pulse dashboard preview"></a>
-<p><sub>使用模拟演示数据。</sub></p>
-<p><a href="https://xudaniel.github.io/remote-mac-keepawake/"><strong>体验演示 →</strong></a></p>
+<h3>🎓 webMethods BPMS 学院</h3>
+<p>亲手跑一遍真实流程，一步步学会业务流程自动化。</p>
+<a href="https://xudaniel.github.io/webmethods-bpms-academy/"><img src="https://raw.githubusercontent.com/xudaniel/webmethods-bpms-academy/main/assets/screenshots/lab-process.png" width="220" alt="Purchase-approval process from the hands-on lab"></a>
+<p><sub>免费 · 手机优先 · 可离线使用。</sub></p>
+<p><a href="https://xudaniel.github.io/webmethods-bpms-academy/"><strong>打开课程 →</strong></a></p>
 </td>
 <td width="33%" valign="top">
 <h3>🏡 房源海报</h3>
