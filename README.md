@@ -18,7 +18,7 @@ Senior Product Manager at **[IBM](https://www.ibm.com/)** · Toronto. I build lo
 <h3>🎓 webMethods BPMS Academy</h3>
 <p>Learn business process automation by running a real process, step by step.</p>
 <a href="https://xudaniel.github.io/webmethods-bpms-academy/"><img src="https://raw.githubusercontent.com/xudaniel/webmethods-bpms-academy/main/assets/screenshots/lab-process.png" width="220" alt="Purchase-approval process from the hands-on lab"></a>
-<p><sub>Free · Phone-first · Works offline · v2.1</sub></p>
+<p><sub>Free · Phone-first · Works offline · v2.2</sub></p>
 <p><a href="https://xudaniel.github.io/webmethods-bpms-academy/"><strong>Open the course →</strong></a></p>
 </td>
 <td width="33%" valign="top">
@@ -53,7 +53,7 @@ Follow your curiosity—pick a place to start.
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[IBM webMethods BPMS Academy](https://github.com/xudaniel/webmethods-bpms-academy)** · **[Open the course →](https://xudaniel.github.io/webmethods-bpms-academy/)** · [v2.1](https://github.com/xudaniel/webmethods-bpms-academy/releases/tag/v2.1.0) | A free, mobile-first course and cited knowledge base on IBM webMethods BPMS for beginners, customers and everyday users. It covers Basics 101, how-to guides by role, a 30-minute hands-on lab, fix-the-diagram puzzles, a story that runs through the course, 26 diagrams, a simulator and quizzes. For banks and insurers it maps controls to SR 11-7, OSFI E-23, the EU AI Act and DORA, and offers a professional mode with one-page executive briefs. Installs as an app that works offline. Independent; not affiliated with IBM. |
+| **[IBM webMethods BPMS Academy](https://github.com/xudaniel/webmethods-bpms-academy)** · **[Open the course →](https://xudaniel.github.io/webmethods-bpms-academy/)** · [v2.2](https://github.com/xudaniel/webmethods-bpms-academy/releases/tag/v2.2.0) | A free, mobile-first course and cited knowledge base on IBM webMethods BPMS for beginners, customers and everyday users. It starts with a 10-minute course for people who know nothing yet, then covers Basics 101, how-to guides by role, a 30-minute hands-on lab, fix-the-diagram puzzles, a story that runs through the course, 26 diagrams, a simulator and quizzes. For banks and insurers it maps controls to SR 11-7, OSFI E-23, the EU AI Act and DORA, and offers a professional mode with one-page executive briefs. Installs as an app that works offline. Independent; not affiliated with IBM. |
 | **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · **[Play Alien Immigration →](https://xudaniel.github.io/zen-Gorules/)** · Fork of **[gorules/zen](https://github.com/gorules/zen)** | A Rust business rules engine with an expression language, decision graphs, and bindings for multiple programming languages. |
 | **[CodexBar](https://github.com/xudaniel/CodexBar)** · Fork of **[steipete/CodexBar](https://github.com/steipete/CodexBar)** | A native macOS menu bar app for monitoring AI provider usage, limits, and reset timing across multiple integrations. |
 | **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse preview](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | macOS remote-operations tooling with launchd-managed sleep prevention, signed heartbeats, durable offline delivery, and a dashboard for status, history, and alerts. |
@@ -108,7 +108,7 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 <h3>🎓 webMethods BPMS 学院</h3>
 <p>亲手跑一遍真实流程，一步步学会业务流程自动化。</p>
 <a href="https://xudaniel.github.io/webmethods-bpms-academy/"><img src="https://raw.githubusercontent.com/xudaniel/webmethods-bpms-academy/main/assets/screenshots/lab-process.png" width="220" alt="Purchase-approval process from the hands-on lab"></a>
-<p><sub>免费 · 手机优先 · 可离线使用 · v2.1</sub></p>
+<p><sub>免费 · 手机优先 · 可离线使用 · v2.2</sub></p>
 <p><a href="https://xudaniel.github.io/webmethods-bpms-academy/"><strong>打开课程 →</strong></a></p>
 </td>
 <td width="33%" valign="top">
@@ -143,7 +143,7 @@ I’m interested in meeting product leaders, founders, investors, and builders w
 
 | 项目 | 项目特色 |
 | --- | --- |
-| **[IBM webMethods BPMS 学院](https://github.com/xudaniel/webmethods-bpms-academy)** · **[打开课程 →](https://xudaniel.github.io/webmethods-bpms-academy/)** · [v2.1](https://github.com/xudaniel/webmethods-bpms-academy/releases/tag/v2.1.0) | 一门免费的 IBM webMethods BPMS 课程，附带有出处的知识库，适配手机，面向初学者、客户和日常使用人员。内容包括基础 101、按角色划分的操作教程、30 分钟动手实验、修图闯关、贯穿全课的故事、26 张示意图、流程模拟器和测验。面向银行和保险，还把合规控制对应到 SR 11-7、OSFI E-23、欧盟 AI 法案和 DORA，并提供专业模式和一页高管简报。可以存成 App 离线使用。这是个人独立项目，与 IBM 无隶属关系。 |
+| **[IBM webMethods BPMS 学院](https://github.com/xudaniel/webmethods-bpms-academy)** · **[打开课程 →](https://xudaniel.github.io/webmethods-bpms-academy/)** · [v2.2](https://github.com/xudaniel/webmethods-bpms-academy/releases/tag/v2.2.0) | 一门免费的 IBM webMethods BPMS 课程，附带有出处的知识库，适配手机，面向初学者、客户和日常使用人员。先用「10 分钟速成」带零基础的人入门，内容还包括基础 101、按角色划分的操作教程、30 分钟动手实验、修图闯关、贯穿全课的故事、26 张示意图、流程模拟器和测验。面向银行和保险，还把合规控制对应到 SR 11-7、OSFI E-23、欧盟 AI 法案和 DORA，并提供专业模式和一页高管简报。可以存成 App 离线使用。这是个人独立项目，与 IBM 无隶属关系。 |
 | **[ZEN / GoRules](https://github.com/xudaniel/zen-Gorules)** · **[体验外星人入境办 →](https://xudaniel.github.io/zen-Gorules/?lang=zh)** · 派生自 **[gorules/zen](https://github.com/gorules/zen)** | 基于 Rust 的业务规则引擎，提供表达式语言、决策图和多种编程语言绑定。 |
 | **[CodexBar](https://github.com/xudaniel/CodexBar)** · 派生自 **[steipete/CodexBar](https://github.com/steipete/CodexBar)** | 原生 macOS 菜单栏应用，集成多家 AI 服务，便于查看用量、额度和重置时间。 |
 | **[Remote Mac KeepAwake](https://github.com/xudaniel/remote-mac-keepawake)** · **[Mac Pulse 预览](https://github.com/xudaniel/remote-mac-keepawake/blob/main/docs/assets/mac-pulse-synthetic.svg)** | 面向 macOS 的远程运维工具，支持由 launchd 管理的防休眠服务、带签名的心跳、离线持久化投递，以及状态、历史记录和告警面板。 |
